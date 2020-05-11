@@ -31,8 +31,8 @@ $cfg['Servers'][$i]['auth_type'] = 'cookie';
 $cfg['Servers'][$i]['host'] = $_ENV['MYSQL_HOST'];
 $cfg['Servers'][$i]['compress'] = false;
 $cfg['Servers'][$i]['AllowNoPassword'] = false;
-$cfg['Servers'][$i]['user']          = 'root';
-$cfg['Servers'][$i]['password']      = 'tunganh03'; // use here your password
+$cfg['Servers'][$i]['user']          = 'b3861ad067f78e';
+$cfg['Servers'][$i]['password']      = 'b5660ec4'; // use here your password
 /**
  * phpMyAdmin configuration storage settings.
  */
